@@ -22,7 +22,7 @@ Moreover, instant messaging is supported for individuals using isolated rooms (g
 - Firebase (BaaS)
 - Data Streaming
 
-**How it looks**
+#### How it looks
 ![all-in-one1.png](screenshots%2Fall-in-one1.png)
 ![all-in-one2.png](screenshots%2Fall-in-one2.png)
 ![all-in-one3.png](screenshots%2Fall-in-one3.png)
